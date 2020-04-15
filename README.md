@@ -14,3 +14,15 @@ They can then create learning plan templates, add competencies to them and assig
 **April 1-** Today I was assigned to a task by my mentor Er.Satinder Sir, who guided our team about the plugins. With plugins we can attach additional features to moodle application. These plugins in moodle application are additional features which make it more usable and interactive . So sir said us to plugin the games(plugin) to our created course. From [Moodle](http://moodle.org), I went to downloads and then to install plugins .From there I opened add activities, there were numbers of plugins. From there I downloaded the game zip file. Then went to my moodle and attached that plugin. After that when I clicked on add activity in my course, then there was column of game. So from that I can add the games like crossword,sudoku etc. After that I went to the database of the moodle, there I checked that a new table for the game was created. There was table named mdl_game, which has the list of games and also there was database for game attempts,game grades etc.
 
 **April 2-** Today first I tried to formulate a formula to calculate the attainment, with help of pdf sent by our mentor Dr.Amit Kamra Sir. From there I found the table which has some data w.r.t the course outcomes. But there I found a problem ablout data i.e what that data contains that was not understandable. So after that I send that query to our mentor. And also we are today assigned with the work to find the code for assignment in which we can make changes and try to add a new column at frontend. But couldn't find the code and instead that we find the code for certificate form https://docs.moodle.org/dev/Activity_modules. We try to find the code for assignment .
+
+**April 3-** Today our group members discussed together and came up with a flowchart go the solution
+
+**April 4-14** No work done
+
+**April 15-** Today I was assigned with a task to study about framework competency.
+
+So competency is defined as combination of skills, knowledge, attributes and behaviours that allows individual to perform a perticular task successfully. Competency has the observable behaviour that can be measured and evaluated and then essential for developing. Compentency enable the individual of an organisation to have the clear understanding the levels of performance expectrd in order to achieve the organisation goals.
+
+Then we come to know that What is a Competency framework?
+
+So compentecy framework is model that describes performance excellence within an organisation. This framework includes number of competencies which are applied to numerous occupational roles within an organisation. Each competency defines excellence in working behaviour. It ensures that people working in same organisation have common understanding of organisation's values and excellent performance behaviours. There are various components of the framework such as core values, core competencies, functional competencies. The thing which was cleared is that this framework revolves all around the excellence of an individual i.e what he was gaining w.r.t the organisation.
