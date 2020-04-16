@@ -19,7 +19,7 @@ They can then create learning plan templates, add competencies to them and assig
 
 **April 4-14** No work done
 
-**April 15-** Today I was assigned with a task to study about framework competency.
+**April 15-** Today I was assigned with a task to study about competency framework.
 
 So competency is defined as combination of skills, knowledge, attributes and behaviours that allows individual to perform a perticular task successfully. Competency has the observable behaviour that can be measured and evaluated and then essential for developing. Compentency enable the individual of an organisation to have the clear understanding the levels of performance expectrd in order to achieve the organisation goals.
 
